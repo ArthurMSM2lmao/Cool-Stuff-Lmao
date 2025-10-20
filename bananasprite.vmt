@@ -1,0 +1,16 @@
+"Sprite"
+{
+	"$basetexture" "dr_junglemines/bananasprite"
+	"$alphatest" 1
+    	"$spriteorigin" ".50"
+	"$translucent" "1"
+	 "proxies"
+        {
+            "Animatedtexture"
+                {
+                "Animatedtexturevar" "$Basetexture"
+                "Animatedtextureframenumvar" "$frame"
+                "Animatedtextureframerate" "10"
+                }
+        }
+}
